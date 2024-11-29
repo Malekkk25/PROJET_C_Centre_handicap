@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1731690047 source:c:\users\poste\desktop\enicar\tp\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	"maBib.c"
+
+1732867585 c:\users\poste\desktop\enicar\tp\projet c\bib.h
+
+1732867608 c:\users\poste\desktop\enicar\tp\projet c\mabib.c
+	"bib.h"
+	<time.h>
+
+1732867608 source:c:\users\poste\desktop\enicar\tp\projet c\mabib.c
+	"bib.h"
+	<time.h>
+
